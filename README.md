@@ -1,7 +1,10 @@
+## This is a copy of my [fork](https://github.com/mparada/cookiecutter-data-science) where the project structure is greatly simplified. No Sphynx, no click, no tox.
+
+## What follows is from the original repo.
+
 # Cookiecutter Data Science
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
-
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
 
